@@ -10,5 +10,6 @@ const letter = words[i];
 if (vowels.includes(letter.toLowerCase()))
 else {
       puzzle += letter;
-
+console.log(puzzle);
 Expected Output: "h-wdy th-r- p-rtn-r"
+
